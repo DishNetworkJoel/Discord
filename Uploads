@@ -1,0 +1,2 @@
+-rss add SOME_NAME https://www.youtube.com/feeds/videos.xml?channel_id=UCAJFVsnsZKoimXeVPwmDltQ
+-rss template SOME_NAME $link
